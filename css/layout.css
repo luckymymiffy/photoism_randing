@@ -100,6 +100,10 @@ body{
     height: 100vh;
     padding-top: 60px;
 }
+#main_nav .bold a{
+    color: #000;
+    font-weight: 600;
+}
 .banner{
     height: 100%;
     background-image: url(../img/main_img1.jpg);
@@ -176,7 +180,7 @@ body{
     /* width: 60%; */
     height: 300px;
     background-image: url(../img/main_img5.jpg);
-    background-size: contain;
+    background-size: cover;
 }
 #design_shop .con{
     text-align: center;
